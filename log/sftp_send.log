@@ -1,0 +1,2147 @@
+------------------------------------ 
+ 20230130_113000処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230130113000 |           8 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230130113000 |          21 KB |   61.7 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230130113000 |            0 B |   43.8 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230130113000 |            0 B |   35.8 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230130_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230131_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230131113001 |          14 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230131113001 |          35 KB |  103.9 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230131113001 |            0 B |   78.9 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230131113001 |            0 B |   65.3 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230131_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230201_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230201113001 |           9 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230201113001 |          71 KB |  209.3 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230201113001 |            0 B |  148.3 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230201113001 |            0 B |  124.2 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230201_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230202_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230202113001 |          13 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230202113001 |          36 KB |  102.8 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230202113001 |            0 B |   60.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230202113001 |            0 B |   48.2 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230202_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230203_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230203113001 |          10 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230203113001 |          26 KB |   68.4 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230203113001 |            0 B |   51.8 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230203113001 |            0 B |   41.7 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230203_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230204_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230204113001 |          10 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230204113001 |          28 KB |  115.4 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230204113001 |            0 B |   83.9 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230204113001 |            0 B |   63.7 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230204_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230205_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230205113001 |           7 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230205113001 |          21 KB |   75.3 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230205113001 |            0 B |   56.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230205113001 |            0 B |   43.8 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230205_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230206_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230206113001 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230206113001 |          16 KB |   50.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230206113001 |            0 B |   37.5 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230206113001 |            0 B |   30.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230206_113007処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230207_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230207113002 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230207113002 |          30 KB |   92.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230207113002 |            0 B |   71.5 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230207113002 |            0 B |   55.2 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230207_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230208_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230208113002 |           7 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230208113002 |          20 KB |   47.2 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230208113002 |            0 B |   36.7 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230208113002 |            0 B |   29.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230208_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230209_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230209113001 |           7 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230209113001 |          27 KB |   92.7 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230209113001 |            0 B |   67.8 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230209113001 |            0 B |   53.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230209_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230210_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230210113001 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230210113001 |          33 KB |   63.2 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230210113001 |            0 B |   52.4 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230210113001 |            0 B |   42.1 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230210_113007処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230211_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230211113002 |           8 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230211113002 |          21 KB |   64.8 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230211113002 |            0 B |   48.5 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230211113002 |            0 B |   38.8 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230211_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230212_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230212113002 |           7 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230212113002 |          17 KB |   51.5 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230212113002 |            0 B |   40.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230212113002 |            0 B |   31.5 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230212_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230213_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230213113002 |           9 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230213113002 |          16 KB |   18.1 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230213113002 |            0 B |    9.7 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230213113002 |            0 B |    8.7 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230213_113008処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230214_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230214113002 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230214113002 |          20 KB |   64.3 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230214113002 |            0 B |   47.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230214113002 |            0 B |   37.8 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230214_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230215_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230215113002 |          11 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230215113002 |          32 KB |   97.5 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230215113002 |            0 B |   73.2 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230215113002 |            0 B |   58.6 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230215_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230216_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230216113001 |           4 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230216113001 |          23 KB |   71.9 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230216113001 |            0 B |   53.8 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230216113001 |            0 B |   43.1 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230216_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230217_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230217113002 |          13 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230217113002 |          31 KB |  117.3 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230217113002 |            0 B |   76.7 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230217113002 |            0 B |   60.5 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230217_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230218_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230218113001 |           7 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230218113001 |          30 KB |   82.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230218113001 |            0 B |   63.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230218113001 |            0 B |   49.2 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230218_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230219_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230219113001 |          14 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230219113001 |          29 KB |   68.2 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230219113001 |            0 B |   54.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230219113001 |            0 B |   44.5 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230219_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230220_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230220113001 |          10 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230220113001 |          16 KB |   41.7 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230220113001 |            0 B |   34.0 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230220113001 |            0 B |   27.9 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230220_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230221_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230221113001 |          13 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230221113001 |          42 KB |  145.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230221113001 |            0 B |  105.7 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230221113001 |            0 B |   80.8 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230221_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230222_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230222113001 |           9 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230222113001 |          34 KB |   97.1 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230222113001 |            0 B |   72.0 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230222113001 |            0 B |   58.7 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230222_113007処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230223_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230223113001 |          15 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230223113001 |          39 KB |  105.1 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230223113001 |            0 B |   81.4 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230223113001 |            0 B |   64.7 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230223_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230224_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230224113002 |          15 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230224113002 |          20 KB |   61.2 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230224113002 |            0 B |   45.9 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230224113002 |            0 B |   36.7 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230224_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230225_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230225113002 |          15 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230225113002 |          20 KB |   49.3 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230225113002 |            0 B |   31.3 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230225113002 |            0 B |   27.3 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230225_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230226_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230226113002 |          15 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230226113002 |         100 KB |  112.8 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230226113002.filepart' からファイル名 'KICS.RV.SOLURECV_20230226113002' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230226_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230227_113002処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230227113002 |          16 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230227113002 |          20 KB |   57.4 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230227113002 |            0 B |   45.5 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230227113002 |            0 B |   37.8 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230227_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230227_180048処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230227180048 |          15 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230227180048 |          20 KB |   58.5 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230227180048 |            0 B |   45.9 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230227180048 |            0 B |   34.7 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230227_180052処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230227_180155処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230227180155 |          15 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230227180155 |         100 KB |  134.0 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230227180155.filepart' からファイル名 'KICS.RV.SOLURECV_20230227180155' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230227_180159処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230227_180329処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230227180329 |          16 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230227180329 |          20 KB |   73.5 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230227180329 |            0 B |   53.0 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230227180329 |            0 B |   44.1 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230227_180333処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230228_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230228113001 |          16 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230228113001 |          53 KB |  147.7 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230228113001 |            0 B |  117.4 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230228113001 |            0 B |   85.1 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230228_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230228_132844処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230228132844 |         100 KB |  129.0 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230228132844.filepart' からファイル名 'KICS.RV.SOLURECV_20230228132844' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230228_132847処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_113001処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230301113001 |          14 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230301113001 |          83 KB |  214.7 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230301113001 |            0 B |  173.1 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230301113001 |            0 B |  141.3 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_115442処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301115442 |         100 KB |  118.5 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301115442.filepart' からファイル名 'KICS.RV.SOLURECV_20230301115442' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_115447処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_120731処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301120731 |         100 KB |  151.3 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301120731.filepart' からファイル名 'KICS.RV.SOLURECV_20230301120731' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_120735処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_124159処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230301124159 |            0 B |    0.0 KB/s | binary |   0%
+KICS.RV.SOLURECV_20230301124159 |         100 KB |  162.8 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301124159.filepart' からファイル名 'KICS.RV.SOLURECV_20230301124159' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_124203処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_125449処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301125449 |         100 KB |  118.5 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301125449.filepart' からファイル名 'KICS.RV.SOLURECV_20230301125449' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_125455処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_131109処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301131109 |         100 KB |  175.2 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301131109.filepart' からファイル名 'KICS.RV.SOLURECV_20230301131109' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_131114処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_131503処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301131503 |         100 KB |  156.8 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301131503.filepart' からファイル名 'KICS.RV.SOLURECV_20230301131503' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_131508処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_131902処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301131902 |         100 KB |   73.0 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301131902.filepart' からファイル名 'KICS.RV.SOLURECV_20230301131902' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_131906処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_132327処琁E��姁E        
+batch           on        
+transfer        binary    
+不明な値 'transfer' (オプション 'overwrite').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301132327 |         100 KB |  102.0 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301132327.filepart' からファイル名 'KICS.RV.SOLURECV_20230301132327' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_132332処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_132654処琁E��姁E        
+batch           on        
+confirm         off       
+transfer        binary    
+不明な値 'transfer' (オプション 'resume 100k').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301132654 |         100 KB |  162.4 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301132654.filepart' からファイル名 'KICS.RV.SOLURECV_20230301132654' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_132657処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_133745処琁E��姁E        
+batch           on        
+confirm         off       
+transfer        binary    
+不明な値 'transfer' (オプション 'resume 200k').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301133745 |         100 KB |  156.8 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301133745.filepart' からファイル名 'KICS.RV.SOLURECV_20230301133745' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_133749処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_135611処琁E��姁E        
+batch           on        
+confirm         off       
+transfer        binary    
+不明な値 'transfer' (オプション 'overwrite').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301135611 |         100 KB |  162.8 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301135611.filepart' からファイル名 'KICS.RV.SOLURECV_20230301135611' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_135615処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_142231処琁E��姁E        
+batch           on        
+confirm         off       
+transfer        binary    
+不明な値 'transfer' (オプション 'overwrite').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301142231 |         100 KB |  151.3 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301142231.filepart' からファイル名 'KICS.RV.SOLURECV_20230301142231' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_142235処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_143207処琁E��姁E        
+batch           on        
+confirm         off       
+transfer        binary    
+不明な値 'transfer' (オプション 'overwrite').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301143207 |         100 KB |  141.3 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301143207.filepart' からファイル名 'KICS.RV.SOLURECV_20230301143207' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_143211処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_143752処琁E��姁E        
+batch           on        
+confirm         off       
+transfer        binary    
+不明な値 'transfer' (オプション 'overwrite').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301143752 |         100 KB |  151.3 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301143752.filepart' からファイル名 'KICS.RV.SOLURECV_20230301143752' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_143756処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_145006処琁E��姁E        
+batch           on        
+confirm         off       
+transfer        binary    
+不明な値 'transfer' (オプション 'overwrite').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301145006 |          51 KB |   66.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230301145006 |            0 B |   43.3 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230301145006 |            0 B |   31.3 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_145010処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_145217処琁E��姁E        
+batch           on        
+confirm         off       
+transfer        binary    
+不明な値 'transfer' (オプション 'overwrite').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301145217 |          49 KB |   78.8 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230301145217 |            0 B |   50.1 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230301145217 |            0 B |   38.1 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_145221処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_164950処琁E��姁E        
+batch           on        
+confirm         off       
+transfer        binary    
+コマンド 'option' のパラメータ過多
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301164950 |         100 KB |  115.5 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301164950.filepart' からファイル名 'KICS.RV.SOLURECV_20230301164950' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_164954処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_165304処琁E��姁E        
+batch           on        
+confirm         off       
+transfer        binary    
+不明な値 'transfer' (オプション 'resumesupport:off').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230301165304 |         100 KB |  156.4 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230301165304.filepart' からファイル名 'KICS.RV.SOLURECV_20230301165304' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_165308処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230301_171858処琁E��姁E        
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230301_171902処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230302_113002処琁E��姁E        
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230302_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230303_113002処琁E��姁E        
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230303_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230303_141737処琁E��姁E        
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230303_141741処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230303_142502処琁E��姁E        
+batch           on        
+confirm         off       
+不明な値 'transfer' (オプション 'off').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+不明なスイッチ 'overwrite'
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230303_142505処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230303_143932処琁E��姁E        
+batch           on        
+confirm         off       
+不明な値 'transfer' (オプション 'off').
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+不明なスイッチ 'overwrite'
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230303_143935処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230303_144330処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230303144330 |         151 KB |  263.9 KB/s | binary | 100%
+転送に成功しましたが一時ファイル名 'KICS.RV.SOLURECV_20230303144330.filepart' からファイル名 'KICS.RV.SOLURECV_20230303144330' への名前の変更ができませんでした。この症状が繰り返される場合は、レジューム機能をオフにしてください
+権限がありません
+エラー コード: 3
+ (US-ASCII) からのエラー メッセージ: Access denied
+中止((A)), 再試行((R)), スキップ((S)), すべてスキップ((P)): 中止(A)
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230303_144334処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230303_144740処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230303144740 |         151 KB |  451.1 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230303144740 |            0 B |  333.0 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230303144740 |            0 B |  255.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230303_144744処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230303_145628処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLURECV_20230303145628 |         151 KB |  364.5 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230303145628 |            0 B |  273.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230303145628 |            0 B |  218.5 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230303_145632処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230304_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230304113002 |          15 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230304113002 |          31 KB |   91.1 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230304113002 |            0 B |   71.7 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230304113002 |            0 B |   57.3 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230304_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230305_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230305113002 |          12 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230305113002 |          30 KB |   94.2 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230305113002 |            0 B |   70.7 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230305113002 |            0 B |   56.5 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230305_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230306_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230306113002 |          11 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230306113002 |          19 KB |   46.9 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230306113002 |            0 B |   33.9 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230306113002 |            0 B |   28.3 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230306_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230307_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230307113002 |           9 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230307113002 |          29 KB |   82.8 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230307113002 |            0 B |   65.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230307113002 |            0 B |   51.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230307_113005処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230308_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230308113002 |          10 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230308113002 |          28 KB |   75.4 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230308113002 |            0 B |   56.5 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230308113002 |            0 B |   44.1 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230308_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230309_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230309113002 |           8 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230309113002 |          27 KB |   77.3 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230309113002 |            0 B |   61.3 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230309113002 |            0 B |   46.9 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230309_113007処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230310_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230310113002 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230310113002 |          30 KB |  107.4 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230310113002 |            0 B |   80.5 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230310113002 |            0 B |   60.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230310_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230311_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230311113002 |           9 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230311113002 |          44 KB |  124.1 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230311113002 |            0 B |   92.1 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230311113002 |            0 B |   75.2 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230311_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230312_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230312113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230312113002 |          32 KB |  109.5 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230312113002 |            0 B |   80.1 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230312113002 |            0 B |   63.1 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230312_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230313_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230313113002 |           9 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230313113002 |          12 KB |   38.4 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230313113002 |            0 B |   28.8 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230313113002 |            0 B |   23.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230313_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230314_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230314113002 |           4 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230314113002 |          31 KB |   71.6 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230314113002 |            0 B |   59.0 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230314113002 |            0 B |   47.8 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230314_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230315_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230315113002 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230315113002 |          32 KB |   90.6 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230315113002 |            0 B |   69.5 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230315113002 |            0 B |   53.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230315_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230316_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230316113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230316113002 |          34 KB |   69.7 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230316113002 |            0 B |   57.2 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230316113002 |            0 B |   49.6 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230316_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230317_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230317113002 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230317113002 |          65 KB |  189.1 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230317113002 |            0 B |  143.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230317113002 |            0 B |  115.5 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230317_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230318_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230318113002 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230318113002 |          39 KB |  125.4 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230318113002 |            0 B |   93.0 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230318113002 |            0 B |   76.1 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230318_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230319_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230319113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230319113002 |          46 KB |  140.7 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230319113002 |            0 B |  105.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230319113002 |            0 B |   84.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230319_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230320_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230320113002 |           7 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230320113002 |          27 KB |   77.5 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230320113002 |            0 B |   57.5 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230320113002 |            0 B |   45.7 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230320_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230321_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230321113002 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230321113002 |          53 KB |  162.6 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230321113002 |            0 B |  126.4 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230321113002 |            0 B |  100.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230321_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230322_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230322113002 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230322113002 |          24 KB |   28.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230322113002 |            0 B |   23.7 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230322113002 |            0 B |   20.1 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230322_113007処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230323_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230323113002 |           8 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230323113002 |          52 KB |  159.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230323113002 |            0 B |  119.3 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230323113002 |            0 B |   95.3 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230323_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230324_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230324113002 |           6 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230324113002 |          29 KB |   99.6 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230324113002 |            0 B |   72.7 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230324113002 |            0 B |   59.2 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230324_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230325_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230325113002 |           9 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230325113002 |          45 KB |  146.5 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230325113002 |            0 B |  108.3 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230325113002 |            0 B |   88.6 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230325_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230326_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230326113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230326113002 |          48 KB |  142.2 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230326113002 |            0 B |  108.0 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230326113002 |            0 B |   89.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230326_113007処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230327_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230327113002 |           8 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230327113002 |          17 KB |   55.7 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230327113002 |            0 B |   22.8 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230327113002 |            0 B |   19.9 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230327_113007処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230328_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230328113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230328113002 |          48 KB |  123.6 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230328113002 |            0 B |   96.7 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230328113002 |            0 B |   77.3 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230328_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230329_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230329113002 |          10 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230329113002 |          67 KB |  227.4 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230329113002 |            0 B |  165.9 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230329113002 |            0 B |  130.9 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230329_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230330_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230330113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230330113002 |          71 KB |  162.2 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230330113002 |            0 B |   73.3 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230330113002 |            0 B |   56.1 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230330_113007処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230331_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230331113002 |           9 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230331113002 |          76 KB |  258.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230331113002 |            0 B |  181.5 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230331113002 |            0 B |  144.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230331_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230401_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230401113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230401113002 |         119 KB |  295.1 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230401113002 |            0 B |  232.7 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230401113002 |            0 B |  201.7 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230401_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230402_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230402113002 |           7 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230402113002 |          32 KB |  110.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230402113002 |            0 B |   74.8 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230402113002 |            0 B |   61.5 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230402_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230403_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230403113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230403113002 |          14 KB |   13.5 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230403113002 |            0 B |   12.3 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230403113002 |            0 B |   11.3 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230403_113008処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230404_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230404113002 |           7 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230404113002 |          29 KB |   70.1 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230404113002 |            0 B |   55.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230404113002 |            0 B |   45.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230404_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230405_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230405113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230405113002 |          25 KB |   79.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230405113002 |            0 B |   59.2 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230405113002 |            0 B |   48.7 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230405_113007処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230406_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230406113002 |           7 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230406113002 |          36 KB |  109.9 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230406113002 |            0 B |   85.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230406113002 |            0 B |   70.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230406_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230407_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230407113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230407113002 |          30 KB |   97.8 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230407113002 |            0 B |   51.5 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230407113002 |            0 B |   29.2 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230407_113007処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230408_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230408113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230408113002 |          27 KB |   87.0 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230408113002 |            0 B |   62.2 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230408113002 |            0 B |   48.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230408_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230409_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230409113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230409113002 |          29 KB |   86.4 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230409113002 |            0 B |   65.6 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230409113002 |            0 B |   54.4 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230409_113006処琁E��亁E         
+------------------------------------ 
+------------------------------------ 
+ 20230410_113002処琁E��姁E        
+batch           on        
+confirm         off       
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.RV.SOLMRECV_20230410113002 |           5 KB |    0.0 KB/s | binary | 100%
+KICS.RV.SOLURECV_20230410113002 |          14 KB |   41.5 KB/s | binary | 100%
+trg_KICS.RV.SOLMRECV_20230410113002 |            0 B |   31.9 KB/s | binary |   0%
+trg_KICS.RV.SOLURECV_20230410113002 |            0 B |   25.2 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_send_tmp.log 
+20230410_113007処琁E��亁E         
+------------------------------------ 

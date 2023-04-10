@@ -1,0 +1,189 @@
+------------------------------------ 
+ 20230205_081501SFTP処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"HYOUKA-TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] HYOUKA-TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.SD.SOLSNDF1_20230202 |          35 KB |  127.5 KB/s | binary | 100%
+KICS.SD.SOLSNDF2_20230202 |          256 B |   19.2 KB/s | binary | 100%
+KICS.SD.SOLSNDF3_20230202 |          256 B |   11.9 KB/s | binary | 100%
+trg_KICS.SD.SOLSNDF1_20230202 |            0 B |    9.5 KB/s | binary |   0%
+trg_KICS.SD.SOLSNDF2_20230202 |            0 B |    7.9 KB/s | binary |   0%
+trg_KICS.SD.SOLSNDF3_20230202 |            0 B |    6.8 KB/s | binary |   0%
+trg_KICS.SD.SOLSNDF1_20230202 |            0 B |    0.0 KB/s | binary |   0%
+trg_KICS.SD.SOLSNDF2_20230202 |            0 B |    0.0 KB/s | binary |   0%
+trg_KICS.SD.SOLSNDF3_20230202 |            0 B |    0.0 KB/s | binary |   0%
+trg_KICS.SD.SYOHINMT      |            0 B |    0.0 KB/s | binary |   0%
+セッション 'HYOUKA-TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_recieve_tmp.log 
+.\KICS.SD.SOLSNDF1_20230202
+.\KICS.SD.SOLSNDF2_20230202
+.\KICS.SD.SOLSNDF3_20230202
+.\trg_KICS.SD.SOLSNDF1_20230202
+.\trg_KICS.SD.SOLSNDF2_20230202
+.\trg_KICS.SD.SOLSNDF3_20230202
+.\trg_KICS.SD.SYOHINMT
+        7 �̃t�@�C�����R�s�[���܂����B
+20230205_081506処琁E��亁E
+------------------------------------ 
+------------------------------------ 
+ 20230206_094825SFTP処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.SD.SYOHINMT          |        5985 KB | 5686.0 KB/s | binary | 100%
+trg_KICS.SD.SYOHINMT      |            0 B |    0.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_recieve_tmp.log 
+.\KICS.SD.SYOHINMT
+.\trg_KICS.SD.SYOHINMT
+        2 �̃t�@�C�����R�s�[���܂����B
+20230206_094830処琁E��亁E
+------------------------------------ 
+------------------------------------ 
+ 20230215_081501SFTP処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.SD.SYOHINMT          |        5987 KB | 7192.0 KB/s | binary | 100%
+trg_KICS.SD.SYOHINMT      |            0 B |    0.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_recieve_tmp.log 
+.\KICS.SD.SYOHINMT
+.\trg_KICS.SD.SYOHINMT
+        2 �̃t�@�C�����R�s�[���܂����B
+20230215_081506処琁E��亁E
+------------------------------------ 
+------------------------------------ 
+ 20230225_081501SFTP処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.SD.SYOHINMT          |        5987 KB | 5607.4 KB/s | binary | 100%
+trg_KICS.SD.SYOHINMT      |            0 B |    0.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_recieve_tmp.log 
+.\KICS.SD.SYOHINMT
+.\trg_KICS.SD.SYOHINMT
+        2 �̃t�@�C�����R�s�[���܂����B
+20230225_081506処琁E��亁E
+------------------------------------ 
+------------------------------------ 
+ 20230305_081500SFTP処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.SD.SYOHINMT          |        5996 KB | 4102.1 KB/s | binary | 100%
+trg_KICS.SD.SYOHINMT      |            0 B |    0.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_recieve_tmp.log 
+.\KICS.SD.SYOHINMT
+.\trg_KICS.SD.SYOHINMT
+        2 �̃t�@�C�����R�s�[���܂����B
+20230305_081505処琁E��亁E
+------------------------------------ 
+------------------------------------ 
+ 20230315_081500SFTP処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.SD.SYOHINMT          |        5998 KB | 5966.8 KB/s | binary | 100%
+trg_KICS.SD.SYOHINMT      |            0 B |    0.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_recieve_tmp.log 
+.\KICS.SD.SYOHINMT
+.\trg_KICS.SD.SYOHINMT
+        2 �̃t�@�C�����R�s�[���܂����B
+20230315_081505処琁E��亁E
+------------------------------------ 
+------------------------------------ 
+ 20230325_081501SFTP処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.SD.SYOHINMT          |        5998 KB | 4061.8 KB/s | binary | 100%
+trg_KICS.SD.SYOHINMT      |            0 B |    0.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_recieve_tmp.log 
+.\KICS.SD.SYOHINMT
+.\trg_KICS.SD.SYOHINMT
+        2 �̃t�@�C�����R�s�[���܂����B
+20230325_081507処琁E��亁E
+------------------------------------ 
+------------------------------------ 
+ 20230405_081501SFTP処琁E��姁E        
+batch           on        
+サーバを探索中･･･
+サーバに接続しています･･･
+認証しています･･･
+ユーザ名"TASH008" を使用中
+公開鍵 "imported-openssh-key" で認証中
+認証されました
+セッションを開始しています･･･
+セッションを開始しました
+アクティブ セッション: [1] TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com
+KICS.SD.SYOHINMT          |        6002 KB | 1828.6 KB/s | binary | 100%
+trg_KICS.SD.SYOHINMT      |            0 B |    0.0 KB/s | binary |   0%
+セッション 'TASH008@s-9e50707503164fe3a.server.transfer.ap-northeast-1.amazonaws.com' を閉じました.
+セッションなし
+C:\Users\81803\�f�X�N�g�b�v\sftp\log\sftp_recieve_tmp.log 
+.\KICS.SD.SYOHINMT
+.\trg_KICS.SD.SYOHINMT
+        2 �̃t�@�C�����R�s�[���܂����B
+20230405_081508処琁E��亁E
+------------------------------------ 
